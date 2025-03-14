@@ -1,41 +1,42 @@
-# 4prd
- 4. Praktiskais darbs
+# 4. Praktiskais darbs
 
 Darba nosacījumi:
-    ● Izmantot atbilstošus tagus (piemēram, <code>) pareizai satura
-    noformēšanai.
 
-    ● Strukturēt lapu, izmantojot semantiskos elementus.
+    1. Izmantot atbilstošus tagus (piemēram, tag code) pareizai satura
+    	noformēšanai.
 
-    ● Izkārtojumu var panākt, pielietojot Bootstrap grid.
+    2. Strukturēt lapu, izmantojot semantiskos elementus.
 
-    ● Uzdevumu risināt izmantojot tikai HTML un Bootstrap (bez CSS),
-    mājaslapa jāveido vienā HTML failā.
+    3. Izkārtojumu var panākt, pielietojot Bootstrap grid.
+
+    4. Uzdevumu risināt izmantojot tikai HTML un Bootstrap (bez CSS),
+    	mājaslapa jāveido vienā HTML failā.
     
-    ● Navigācijai vienmēr jābūt lapas augšpusē, pat ja lietotājs pārvietojas
-    zemāk (ang. sticky navbar). Navigācijai dokumenta galvenē nav
-    nepieciešams mainīt aktīvo elementu.
+    5. Navigācijai vienmēr jābūt lapas augšpusē, pat ja lietotājs pārvietojas
+    	zemāk (ang. sticky navbar). Navigācijai dokumenta galvenē nav
+    	nepieciešams mainīt aktīvo elementu.
 
-    ● Aizstāt "Vārds Uzvārds" ar Jūsu vārdu un uzvārdu.
+    6. Aizstāt "Vārds Uzvārds" ar Jūsu vārdu un uzvārdu.
 
-    ● Pārbaudīt izveidoto mājaslapu ar W3C validator.
+    7. Pārbaudīt izveidoto mājaslapu ar W3C validator.
 
 Vērtēšanas kritēriji:
-    ● Atpazīti HTML elementi un izmantoti atbilstošie tagi, izskats ir identisks
-    (0 - 4 pt). Ja nav izmantots dotais teksts vai rezultāts ir būtiski atšķirīgs no
-    vēlamā, darbs netiks ieskaitīts.
 
-    ● Izmantoti semantiskie elementi (0 - 1 pt).
+    1. Atpazīti HTML elementi un izmantoti atbilstošie tagi, izskats ir identisks
+    	(0 - 4 pt). Ja nav izmantots dotais teksts vai rezultāts ir būtiski atšķirīgs no
+    	vēlamā, darbs netiks ieskaitīts.
 
-    ● Mājaslapu var validēt ar W3C validator bez nevienas kļūdas vai
-    brīdinājuma (0 - 1 pt).
+    2. Izmantoti semantiskie elementi (0 - 1 pt).
 
-    ● Darbs ir iesniegts laikā (0 - 1 pt).
+    3. Mājaslapu var validēt ar W3C validator bez nevienas kļūdas vai
+    	brīdinājuma (0 - 1 pt).
 
-    ● Tests 1 (0 - 1 pt).
+    4. Darbs ir iesniegts laikā (0 - 1 pt).
 
-    ● Ir pielietota versiju kontrole (0 - 1 pt).
+    5. Tests 1 (0 - 1 pt).
 
-    ● Darba ievietošana moodle ir obligāta vērtējuma saņemšanai.
+    6. Ir pielietota versiju kontrole (0 - 1 pt).
+
+    7. Darba ievietošana moodle ir obligāta vērtējuma saņemšanai.
     
-    ● Vērtējums tiek aprēķināt summējot iegūtos punktus.
+    8. Vērtējums tiek aprēķināt summējot iegūtos punktus.
